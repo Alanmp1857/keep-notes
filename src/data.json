@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "title": "note-1",
+      "note": "Hello",
+      "id": "1"
+    },
+    {
+      "title": "hello",
+      "note": "alan4",
+      "id": "5"
+    },
+    {
+      "title": "hello",
+      "note": "alan here",
+      "id": "6"
+    },
+    {
+      "title": "hello",
+      "note": "from alex",
+      "id": "7"
+    }
+  ],
+  "users": [
+    {
+      "username": "alan",
+      "gender": "male",
+      "email": "alan@gmail.com",
+      "password": "123456",
+      "id": "1"
+    },
+    {
+      "username": "harsha",
+      "gender": "male",
+      "email": "harsha@gmail.com",
+      "password": "123456",
+      "id": "2"
+    }
+  ]
+}
